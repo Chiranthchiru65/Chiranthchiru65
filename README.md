@@ -7,9 +7,6 @@ I'm a front-end engineer who develops modern, reactive, and user-friendly web ap
 
 - 🤝 Open to collaborate on **UI Design & frontend projects.**
 
-<a href="https://twitter.com/ChiranthNataraj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/pranjalshikhar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
