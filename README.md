@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Chiranth here!</h1>
 <h3 align="center">Developer // Designer // Figuring-out ✨</h3>
 
-I'm a front-end engineer who develops modern, reactive, and user-friendly web applications using the latest technologies. 🚀 I believe a perfect blend of UI architecture is one, where the goals and needs are accounted for in an elegant, efficient, and robust design of the UI. ✨
+I'm a software engineer who develops modern, reactive, and user-friendly web applications using the latest technologies. 🚀 I believe a perfect blend of UI architecture is one, where the goals and needs are accounted for in an elegant, efficient, and robust design of the UI. ✨
 
 - 🧠 Currently Practicing to **build web apps more beautiful.**
 
